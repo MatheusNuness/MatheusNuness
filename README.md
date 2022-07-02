@@ -29,3 +29,12 @@
   
   ##
  
+<div style:align="center" style="display: inline_block"><br>
+  <h4 style="color: blue;">PROJETOS - INSTITUTO PROA</h4>
+    <a href="https://github.com/MatheusNuness/TODO-LIST"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusNuness&repo=TODO-LIST&theme=dark">
+    <a href="https://github.com/MatheusNuness/Busca_cep"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusNuness&repo=Busca_cep&theme=dark">
+    <a href="https://github.com/MatheusNuness/coffee-website"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusNuness&repo=coffee-website&theme=dark">
+    
+              
+  </div>
+              
